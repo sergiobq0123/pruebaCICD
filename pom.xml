@@ -14,7 +14,7 @@
 
     <artifactId>DevOps</artifactId>
     <groupId>es.upm.miw</groupId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>release-1.0.0</version>
     <packaging>jar</packaging>
 
     <name>${project.groupId}.${project.artifactId}</name>
